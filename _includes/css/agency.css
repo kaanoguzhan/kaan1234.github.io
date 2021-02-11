@@ -343,6 +343,15 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+section h3.timeline-subtitle {
+    font-size: 27px;
+    margin-bottom: 0px;
+}
+
+section .timeline-subtitle-row {
+    margin-bottom: 75px;
+}
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
