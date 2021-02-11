@@ -6,3 +6,5 @@ git_source(:github) {|repo_name| "https://github.com/#{kaanoguzhan.github.io}" }
 
 # gem "rails"
 gem 'github-pages'
+
+gem "webrick", "~> 1.7"
