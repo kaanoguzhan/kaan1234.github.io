@@ -2,7 +2,7 @@ url: https://kaanoguzhan.github.io
 # baseurl: "kaanoguzhan"
 
 # Site settings
-title: aAAAwesome Title
+title: Kaan Oguzhan
 email: kaan.oguzhan@tum.de
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -11,6 +11,26 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Kaan Oguzhan
   pic: 1
+  position: M.Sc. Informatik Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+- name: Kaan Oguzhan
+  pic: 2
+  position: M.Sc. Informatik Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+- name: Kaan Oguzhan
+  pic: 3
   position: M.Sc. Informatik Student
   social:
     - title: twitter
