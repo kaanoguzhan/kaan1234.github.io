@@ -1,5 +1,6 @@
 url: https://kaanoguzhan.github.io
 baseurl: /kaan/
+remote_theme: y7kim/agency-jekyll-theme
 
 # Site settings
 title: Awesome Title
