@@ -56,7 +56,7 @@ function start_count() {
                 display: false
             },
             animation: {
-                duration: 12000,
+                duration: 8000,
             }, tooltips: {
                 callbacks: {
                     label: function (tooltipItem) {
