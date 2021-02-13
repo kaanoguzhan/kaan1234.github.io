@@ -874,3 +874,23 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.project-title {
+    line-height: 1.125;
+    min-height: 3.375em;
+}
+
+.project-subtitle {
+    padding-top: 8px !important;
+    line-height: unset;
+    min-height: 3.8em;
+}
+
+.contact-me-light-color{
+    color: #b4bcc2;
+}
+
+.contact-me-title{
+    color: #b4bcc2;
+}
+

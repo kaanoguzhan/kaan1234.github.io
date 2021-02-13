@@ -4,41 +4,8 @@ url: https://kaanoguzhan.github.io
 # Site settings
 title: Kaan Oguzhan
 email: kaan.oguzhan@tum.de
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Personal page for Kaan Oguzhan. A brief overview to my life and my projects == It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-
-# Team names, titles and social links
-people:
-- name: Kaan Oguzhan
-  pic: 1
-  position: M.Sc. Informatik Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-- name: Kaan Oguzhan
-  pic: 2
-  position: M.Sc. Informatik Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-- name: Kaan Oguzhan
-  pic: 3
-  position: M.Sc. Informatik Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
