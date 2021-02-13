@@ -4,8 +4,8 @@ subtitle: Koc University
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: haarcascase-feature-decetor.png
+thumbnail: haarcascase-feature-decetor.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
