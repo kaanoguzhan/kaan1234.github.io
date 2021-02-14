@@ -460,7 +460,7 @@ section .timeline-subtitle-row {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #E9E9E9;
 }
 
 .timeline>li {
@@ -508,7 +508,7 @@ section .timeline-subtitle-row {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid #E9E9E9;
     border-radius: 100%;
     text-align: center;
     color: #fff;
