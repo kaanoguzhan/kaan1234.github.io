@@ -903,3 +903,9 @@ section h3.contact-me-subtitle{
     color: #b4bcc2;
 }
 
+
+.row-no-margin{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
