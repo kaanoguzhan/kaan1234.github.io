@@ -16,7 +16,7 @@ function start_count() {
     var languageCart = new Chart(ctx, {
         type: 'horizontalBar',
         data: {
-            labels: ['German', 'English', 'Turkish'],
+            labels: ['German (Abitur)', 'English (Advanced)', 'Turkish (Native)'],
             datasets: [{
                 data: [15, 18, 20],
                 backgroundColor: [
@@ -56,12 +56,12 @@ function start_count() {
                 display: false
             },
             animation: {
-                duration: 8000,
+                duration: 6000,
             }, tooltips: {
                 callbacks: {
                     label: function (tooltipItem) {
                         if (tooltipItem.xLabel == 15) {
-                            return "Advanced (C1)";
+                            return "Advanced (C1-Abitur)";
                         } else if (tooltipItem.xLabel == 18) {
                             return "Advanced";
                         } else if (tooltipItem.xLabel == 20) {
